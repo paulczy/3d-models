@@ -4,9 +4,9 @@
 
 ## Models
 
-### RetroTINK 4K stand (`retrotink-4k-stand/`)
+### RetroTINK 6X stand (`retrotink-6x-stand/`)
 
-A vertical stand for the RetroTINK 4K, changed to hold the remote.
+A vertical stand for the RetroTINK 6X, based on the RetroTINK 4K stand. The remote slot is changed to fit the new remote that comes with the 6X.
 
 - `rt4k_stand_6x_remote.3mf`
 - `rt4k_stand_6x_remote.stl`
